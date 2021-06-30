@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Api Envioclick</string>
+    <string name="No_Disponible">No Disponible</string>
+
+    <string name="err_msg_key">Ingresa tu Api Key</string>
+    <string name="err_msg_track">Ingresa un ID para buscar</string>
+    <string name="track_number">Número de guía</string>
+
+    <string name="text_description">Descripción</string>
+    <string name="text_contentValue">Valor del contenido</string>
+    <string name="text_weight">Peso del producto</string>
+    <string name="text_height">Altura del producto</string>
+    <string name="text_width">Ancho del producto</string>
+    <string name="text_length">Largo del producto</string>
+    <string name="text_zpOrigin">Código postal de origen</string>
+    <string name="text_zpDestination">Código postal de destino</string>
+    <string name="text_cotizar">Cotizar</string>
+
+    <string name="err_description">Ingresa una Descripción</string>
+    <string name="err_contentValue">Ingresa un valor al contenido</string>
+    <string name="err_weight">Ingresa el peso del producto</string>
+    <string name="err_height">Ingresa la altura del producto</string>
+    <string name="err_width">Ingresa el ancho del producto</string>
+    <string name="err_length">Ingresa el largo del producto</string>
+    <string name="err_zpOrigin">Ingresa el código postal de origen</string>
+    <string name="err_zpDestination">Ingresa el código postal de destino</string>
+    <string name="get_key">!Obtener key!</string>
+
+</resources>
